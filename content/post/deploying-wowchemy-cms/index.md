@@ -5,8 +5,8 @@ date: 2021-05-20T04:53:58.542Z
 draft: false
 featured: false
 image:
-  filename: example-passive-mr-data.png
-  focal_point: Smart
+  filename: https://unsplash.com/photos/8Yxkb0SvNEM
+  focal_point: ""
   preview_only: false
   caption: Typical Microrheology experimental workflow.
 ---
